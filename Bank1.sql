@@ -1,0 +1,4 @@
+CREATE DATABASE Bank1;
+USE Bank1;
+CREATE TABLE user1(username VARCHAR(100) PRIMARY KEY, password VARCHAR(100) NOT NULL, email VARCHAR(100), gender VARCHAR(100), phone VARCHAR(20), qualification VARCHAR(50));
+SELECT * FROM user1;
