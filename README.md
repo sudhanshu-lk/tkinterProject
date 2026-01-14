@@ -51,9 +51,9 @@ The application is suitable for learning **GUI development, database connectivit
 ## 📸 Application Screenshots
 
 <p align="center">
-  <img src="screenshots/main_page.png" width="45%" />
-  <img src="screenshots/registration_page.png" width="45%" /><br><br>
-  <img src="screenshots/crud_page.png" width="45%" />
+  <img src="screenshots/Screenshot1.png" width="700" /><br><br>
+  <img src="screenshots/Screenshot2.png" width="700" /><br><br>
+  <img src="screenshots/Screenshot3.png" width="700" /><br><br>
 </p>
 
 > 📁 All screenshots are available in the `screenshots` folder.
