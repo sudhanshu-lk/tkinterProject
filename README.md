@@ -64,6 +64,6 @@ The application is suitable for learning **GUI development, database connectivit
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sudhanshu-lk/tkinterProject.git
  to store user data.
 
